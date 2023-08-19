@@ -691,14 +691,12 @@ Market,,–,"Irving, TX 75061",–,–,–,"8,200 sqft",–,–
 Off,,,,,,,,,
 "",LAND,–,201 W Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,16.02 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,127 W Union Bower Rd,,,,,,
 Market,,3/30/01,"Irving, TX 75061",–,–,–,"7,980 sqft",–,–
 Off,,,,,,,,,
 "",LAND,–,125 W Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,"7,124 sqft",–,–
-Market,,4/2/99,"Irving, TX 75061",–,–,–,0.3 acres,–,–
-Off,,,,,,,,,
-"",LAND,–,114 W Union Bower Rd,,,,,,
-Market,,–,"Irving, TX 75061",–,–,–,0.26 acres,–,–
 Market,,4/10/97,"Irving, TX 75061",–,–,–,2 acres,–,–
 Off,,,,,,,,,
 "",LAND,–,1325 N Union Bower Rd,,,,,,
@@ -707,22 +705,24 @@ Market,,–,"Irving, TX 75061",–,–,–,"7,700 sqft",–,–
 Off,,,,,,,,,
 "",LAND,–,2417 E Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,0.25 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2409 E Union Bower Rd,,,,,,
 Market,,12/12/11,"Irving, TX 75061",–,–,–,0.26 acres,–,–
 Off,,,,,,,,,
 "",LAND,–,2323 E Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,0.27 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2227 E Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,1.86 acres,–,–
 Off,,,,,,,,,
 "",LAND,–,1751 E Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,8.52 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,1745 E Union Bower Rd,,,,,,
 Market,,12/19/19,"Irving, TX 75061",–,–,–,0.65 acres,–,–
 Off,,,,,,,,,
 "",LAND,–,1702 E Union Bower Rd,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,"1,245 sqft",–,–
-Market,,–,"Irving, TX 75061",–,–,–,0.83 acres,–,–
-Off,,,,,,,,,
-"",LAND,–,22 Ubaidah Ct,,,,,,
-Market,,–,"Irving, TX 75061",–,–,–,"3,349 sqft",–,–
 Market,,–,"Irving, TX 75061",–,–,–,"2,431 sqft",–,–
 Off,,,,,,,,,
 "",LAND,–,20 Ubaidah Ct,,,,,,
@@ -735,3 +735,240 @@ Market,,–,"Irving, TX 75061",–,–,–,"3,759 sqft",–,–
 Off,,,,,,,,,
 "",LAND,–,16 Ubaidah Ct,,,,,,
 Market,,–,"Irving, TX 75061",–,–,–,"2,787 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"2,870 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,14 Ubaidah Ct,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"3,506 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"6,048 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,12 Ubaidah Ct,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"10,863 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"6,493 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,10 Ubaidah Ct,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"6,073 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"6,538 sqft",–,–
+Closed,LAND,–,3800 Tx-161,–,–,–,1.24 acres,–,–
+"",,6/23/23,"Irving, TX 75038",,,,,,
+Off,,,,,,,,,
+"",LAND,–,3705 Tx-161,,,,,,
+Market,,12/23/21,"Irving, TX 75038",–,–,–,10.78 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3830 Twin Falls St,,,,,,
+Market,,6/21/22,"Irving, TX 75062",–,–,–,"6,944 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,530 Tuscan Dr,,,,,,
+Market,,5/13/10,"Irving, TX 75039",–,–,–,1.71 acres,–,–
+Market,,10/11/02,"Irving, TX 75060",–,–,–,18 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,5 Turnberry Ct,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,0.43 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,4 Turnberry Ct,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,0.47 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,9001 Tucasa Dr,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,2.35 acres,–,–
+Market,,–,"Irving, TX 75063",–,–,–,9.92 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,9001 Trotter St,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"6,300 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,1711 Trotter St,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,714 sqft,–,–
+Off,,,,,,,,,
+"",LAND,–,15101 Trinity Blvd,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,2.19 acres,–,–
+Market,,–,"Irving, TX 75060",–,–,–,0.42 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,1403 Trinity View St,,,,,,
+Market,,–,"Irving, TX 75060",–,–,–,0.42 acres,–,–
+Market,,–,"Irving, TX 75038",–,–,–,0.41 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,1200 Travis Cir S,,,,,,
+Market,,–,"Irving, TX 75038",–,–,–,1 acre,–,–
+Off,,,,,,,,,
+"",LAND,–,1100 Travis Cir S,,,,,,
+Market,,–,"Irving, TX 75038",–,–,–,1 acre,–,–
+Off,,,,,,,,,
+"",LAND,–,"1003 Trailwood Ln, #41",,,,,,
+Market,,3/2/11,"Irving, TX 75061",–,–,–,9.11 acres,–,–
+Market,,7/19/96,"Irving, TX 75061",–,–,–,9.11 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,"901 Trailwood Ln, #26",,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,9.11 acres,–,–
+Market,,–,"Irving, TX 75061",–,–,–,"4,617 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,33 Towne Lake Ct,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"1,640 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"7,057 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,1311 Towne Colony Dr,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"6,168 sqft",–,–
+Market,,–,"Irving, TX 75039",–,–,–,"2,147 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,5428 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,704 sqft",–,–
+Market,,–,"Irving, TX 75039",–,–,–,"1,672 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,5420 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"2,036 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,5416 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"2,670 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,28 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"2,165 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,27 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,740 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,26 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,712 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,25 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,666 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,24 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,681 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,13 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,176 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,12 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,176 sqft",–,–
+"",,–,"Irving, TX 75039",,,,,,
+Off,,,,,,,,,
+"",LAND,–,11 Tomlinson Dr,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,"1,456 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,3002 Tom Braniff Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,0.38 acres,–,–
+Market,,–,"Irving, TX 75062",–,–,–,3.59 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3000 Tom Braniff Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,4.34 acres,–,–
+Market,,–,"Irving, TX 75062",–,–,–,0.69 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2900 Tom Braniff Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,15.47 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2700 Tom Braniff Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,18.09 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2601 Toledo Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,–,–,–
+Off,,,,,,,,,
+"",LAND,–,2 Tioga Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,"5,227 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,1 Tioga Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,"3,049 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,570 Tienda,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,0.5 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,1711 Thompson Ln,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,0.43 acres,–,–
+Market,,–,"Irving, TX 75039",–,–,–,0.43 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,5000 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,0.5 acres,–,–
+Market,,1/4/21,"Irving, TX 75039",–,–,–,7.5 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3901 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,4.16 acres,–,–
+Market,,1/4/21,"Irving, TX 75039",–,–,–,0.25 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3840 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,1.56 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3838 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,0.52 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3838 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,0.87 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3830 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,1.31 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,3820 Teleport Blvd,,,,,,
+Market,,–,"Irving, TX 75039",–,–,–,4.97 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,4 Tangier St,,,,,,
+Market,,7/30/09,"Irving, TX 75062",–,–,–,"8,140 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,9002 Tally Ho Dr,,,,,,
+Market,,–,"Irving, TX 75062",–,–,–,–,–,–
+Market,,1/10/03,"Irving, TX 75060",–,–,–,–,–,–
+Off,,,,,,,,,
+"",LAND,–,"601 Tall Tree Dr, #216",,,,,,
+Market,,9/20/12,"Irving, TX 75060",–,–,–,–,–,–
+Market,,–,"Irving, TX 75061",–,–,–,0.25 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,7 Talhah Cir,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"6,012 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"3,510 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,5 Talhah Cir,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"2,915 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"2,907 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,3 Talhah Cir,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"2,899 sqft",–,–
+Market,,–,"Irving, TX 75061",–,–,–,"2,973 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,1 Talhah Cir,,,,,,
+Market,,–,"Irving, TX 75061",–,–,–,"4,481 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,2402 Syracuse Dr,,,,,,
+Market,,6/26/95,"Irving, TX 75062",–,–,–,0.28 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2401 Syracuse Dr,,,,,,
+Market,,5/23/95,"Irving, TX 75062",–,–,–,0.26 acres,–,–
+Market,,–,"Irving, TX 75063",–,–,–,5.41 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,"500 Surrey Ln, #249",,,,,,
+Market,,7/22/15,"Irving, TX 75060",–,–,–,–,–,–
+Market,,10/13/08,"Irving, TX 75061",–,–,–,0.36 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,1703 Sunnybrook Dr,,,,,,
+Market,,8/2/11,"Irving, TX 75061",–,–,–,0.46 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,7600 Summitview Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,12.48 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2100 Summitview Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,12.24 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2100 Summitview Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,0.92 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,8 Summitview Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,100 sqft,–,–
+Market,,–,"Irving, TX 75063",–,–,–,100 sqft,–,–
+Off,,,,,,,,,
+"",LAND,–,1 Summitview Dr,,,,,,
+Market,,–,"Irving, TX 75063",–,–,–,100 sqft,–,–
+Market,,–,"Irving, TX 75063",–,–,–,100 sqft,–,–
+Off,,,,,,,,,
+"",LAND,–,1000 Sugar Maple Dr,,,,,,
+Market,,9/5/01,"Irving, TX 75063",–,–,–,"9,932 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,120 Strickland Plz,,,,,,
+Market,,–,"Irving, TX 75060",–,–,–,"7,250 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,116 Strickland Plz,,,,,,
+Market,,–,"Irving, TX 75060",–,–,–,"7,250 sqft",–,–
+Off,,,,,,,,,
+"",LAND,–,3250 Story Rd W,,,,,,
+Market,,–,"Irving, TX 75038",–,–,–,0.69 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2900 Story Rd W,,,,,,
+Market,,–,"Irving, TX 75038",–,–,–,2.36 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2819 S Story Rd,,,,,,
+Market,,12/9/21,"Irving, TX 75060",–,–,–,0.36 acres,–,–
+Off,,,,,,,,,
+"",LAND,–,2819 S Story Rd,,,,,,
+Market,,12/29/16,"Irving, TX 75060",–,–,–,–,–,–
