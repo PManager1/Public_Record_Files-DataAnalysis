@@ -17,6 +17,21 @@ itables
 Sidetables 
 
 
+Public records links :  for Bexar county at dallas. 
+https://dallas.tx.publicsearch.us/
+
+Also list for Florida Miami county.. 
+
+Also list for 
+Use table extractor chrome extension to get the csv of teh public data. 
+https://chromewebstore.google.com/detail/table-extractor/bplejbaicgjafneipkgikahgengigkpe?hl=en-US
+
+
+use this tool to merge multile excel files. 
+https://www.mergespreadsheets.com/
+
+
+
 
 
 
