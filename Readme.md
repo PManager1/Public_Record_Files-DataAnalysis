@@ -32,6 +32,9 @@ https://www.mergespreadsheets.com/
 
 
 
+Use this tool to merge multile CSV files. 
+https://merge-csv.com/
+https://mightymerge.io/merge-csv-files/
 
 
 
